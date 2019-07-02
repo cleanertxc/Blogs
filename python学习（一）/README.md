@@ -1,10 +1,3 @@
-* [Lesson 2:Data type and Operator]()
-      * [2.1 Arithmetic Operators]()
-      * [2.2 Variables and Assignments operator]()
-      * [2.3 Integers and floats]()
-      * [2.4 Booleans, Comparison Operators, and Logical Operators]()
-      * [2.5 String]()
-
 俗话说好记性不如烂笔头，正好最近打算系统的学习一下python, 就在这里记录一下吧，也是当作第一篇博客了~~
 # Lesson 2:Data type and Operator
 ## 2.1 Arithmetic Operators
